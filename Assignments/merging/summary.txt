@@ -1,0 +1,6 @@
+Danni said something about merging a branch so let's try it out
+I've done the first commit
+Second commit done
+Third commit done
+Fourth commit done.
+It's the last one now
