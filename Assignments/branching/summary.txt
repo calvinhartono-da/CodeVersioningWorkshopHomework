@@ -2,3 +2,10 @@ Danni said revert means you are undoing the last local commit changes
 So we can say that it was undo (?)
 Git also support central repository to support collaborative work. In a git concept, this is called remote.
 Each person clone repository, and send/receive new commit.
+
+Remote Workflow:
+Copy the repository to local machine
+Make changes to any files
+Save the changes
+Make sure all the files is up-to-date
+Copy back the project to remote
